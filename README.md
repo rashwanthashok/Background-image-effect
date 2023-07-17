@@ -17,7 +17,7 @@ Rashwanth Image Transition is a web page that showcases a background image trans
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Image-transition/
+    https://rashwanthashok.github.io/Background-image-effect/
 ## Getting Started:
 
 To use the Rashwanth Image Transition web page, follow these steps:

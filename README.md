@@ -73,6 +73,9 @@ Feel free to customize the code further to add additional features or enhancemen
 
 - Easy to integrate into any website or project.
 
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bf7561c8-d39f-4e1e-b981-fdc69f8ab15d/deploy-status)](https://app.netlify.com/sites/jsprojects22-background-image-effects/deploys)
 ## Contributing
 
 Contributions are always welcome!
